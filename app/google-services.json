@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "impressive-rig-125716",
+    "project_number": "1003898851152",
+    "name": "GoogleSignIn"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003898851152:android:bb69bf2223738101",
+        "client_id": "android:com.example.vedha.googlesignin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.vedha.googlesignin",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003898851152-0k85b9pj498g502b0ruhksbigjcid3mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vedha.googlesignin",
+            "certificate_hash": "C8A8E4B2D2648C8456C7DC37EB0EC48D0D568CC2"
+          }
+        },
+        {
+          "client_id": "1003898851152-87tke9s6fseosbi61dqlgmnckjqaimpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
